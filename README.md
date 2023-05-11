@@ -18,7 +18,7 @@ If you want to change the config, open up [main.py](https://discord.gg/yrmWeTgbg
 
 ```js
 {
-    token: "Put-Token-Here",
+    client.run: "Put-Token-Here",
 }
 ```
 

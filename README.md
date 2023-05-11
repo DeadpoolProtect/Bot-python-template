@@ -10,7 +10,7 @@
 
 
 1. Install [python](https://www.python.org/)
-2. Open up [main.py(https://discord.gg/yrmWeTgbgn) with notepad or some other editor
+2. Open up [main.py](https://discord.gg/yrmWeTgbgn) with notepad or some other editor
 
 # <a id="config"></a>⚙ » Config
 

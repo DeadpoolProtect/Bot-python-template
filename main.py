@@ -77,4 +77,4 @@ async def userinfo(ctx, member: discord.Member = None):
 
 
 
-client.run("MTEwNDAyODY2Nzc4NjU3NTk0Mw.GMukDU.PLWkOVlTd0F1EfIoma62AIAhcJko-Q3mrPUN-U")
+client.run("")
